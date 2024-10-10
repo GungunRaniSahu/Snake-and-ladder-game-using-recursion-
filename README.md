@@ -1,4 +1,6 @@
 # Snake-and-ladder-game-using-recursion-
+
+
 Rules and key points of the game:-
 1- Board size is 16
 2- You cannot input a digit greater than 6 and lower than 1
